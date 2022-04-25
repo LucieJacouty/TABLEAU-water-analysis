@@ -1,6 +1,6 @@
 # Etude de l'accès à l'eau potable dans le monde avec Tableau  
 
-Projet Openclassrooms - Formation Data Analyst  
+Projet Openclassrooms - Formation Data Analyst    
 
 
 Objectif : Réaliser plusieurs dashboards présentant une vue globale de l'accès à l'eau potable dans le monde   
