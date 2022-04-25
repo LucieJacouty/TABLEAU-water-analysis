@@ -1,0 +1,550 @@
+,Year,Country,Granularity,Mortality rate attributed to exposure to unsafe WASH services,WASH deaths,mortality_index
+0,2016,Afghanistan,Female,15.311929999999998,,
+1,2016,Afghanistan,Male,12.612969999999999,,
+2,2016,Afghanistan,Total,13.920670000000001,4824.353,8.0
+3,2016,Albania,Female,0.12552,,
+4,2016,Albania,Male,0.2065,,
+5,2016,Albania,Total,0.16641,4.86975,14.0
+6,2016,Algeria,Female,2.1989,,
+7,2016,Algeria,Male,1.72837,,
+8,2016,Algeria,Total,1.86723,758.21,13.0
+9,2016,Angola,Female,45.150240000000004,,
+10,2016,Angola,Male,52.62506,,
+11,2016,Angola,Total,48.81467,14065.2,5.0
+12,2016,Antigua and Barbuda,Female,0.10419,,
+13,2016,Antigua and Barbuda,Male,0.12469000000000001,,
+14,2016,Antigua and Barbuda,Total,0.11402999999999999,0.11513,14.0
+15,2016,Argentina,Female,0.40251,,
+16,2016,Argentina,Male,0.32166,,
+17,2016,Argentina,Total,0.36294,159.1411,14.0
+18,2016,Armenia,Female,0.16495,,
+19,2016,Armenia,Male,0.19032000000000002,,
+20,2016,Armenia,Total,0.17687999999999998,5.17336,14.0
+21,2016,Australia,Female,0.11957999999999999,,
+22,2016,Australia,Male,0.07103,,
+23,2016,Australia,Total,0.09539,23.013460000000002,14.0
+24,2016,Austria,Female,0.15099,,
+25,2016,Austria,Male,0.09539,,
+26,2016,Austria,Total,0.12375,10.781080000000001,14.0
+27,2016,Azerbaijan,Female,0.9552700000000001,,
+28,2016,Azerbaijan,Male,1.28588,,
+29,2016,Azerbaijan,Total,1.11988,108.9128,13.0
+30,2016,Bahamas,Female,0.06681000000000001,,
+31,2016,Bahamas,Male,0.07032000000000001,,
+32,2016,Bahamas,Total,0.06853,0.26811,14.0
+33,2016,Bahrain,Female,0.048119999999999996,,
+34,2016,Bahrain,Male,0.0344,,
+35,2016,Bahrain,Total,0.0396,0.56435,14.0
+36,2016,Bangladesh,Female,13.829,,
+37,2016,Bangladesh,Male,10.0935,,
+38,2016,Bangladesh,Total,11.94467,19464.03,8.0
+39,2016,Barbados,Female,0.23025,,
+40,2016,Barbados,Male,0.09322000000000001,,
+41,2016,Barbados,Total,0.16462000000000002,0.46915,14.0
+42,2016,Belarus,Female,0.0529,,
+43,2016,Belarus,Male,0.05022,,
+44,2016,Belarus,Total,0.05165,4.896669999999999,14.0
+45,2016,Belgium,Female,0.35481999999999997,,
+46,2016,Belgium,Male,0.20645,,
+47,2016,Belgium,Total,0.28179,32.00647,14.0
+48,2016,Belize,Female,0.89054,,
+49,2016,Belize,Male,1.04043,,
+50,2016,Belize,Total,0.96521,3.5418800000000004,14.0
+51,2016,Benin,Female,54.36152,,
+52,2016,Benin,Male,65.12923,,
+53,2016,Benin,Total,59.73005,6494.034000000001,4.0
+54,2016,Bhutan,Female,4.5675,,
+55,2016,Bhutan,Male,3.40449,,
+56,2016,Bhutan,Total,3.9497400000000003,31.509159999999998,11.0
+57,2016,Bolivia (Plurinational State of),Female,4.92742,,
+58,2016,Bolivia (Plurinational State of),Male,6.225630000000001,,
+59,2016,Bolivia (Plurinational State of),Total,5.57744,607.2645,10.0
+60,2016,Bosnia and Herzegovina,Female,0.0809,,
+61,2016,Bosnia and Herzegovina,Male,0.07647000000000001,,
+62,2016,Bosnia and Herzegovina,Total,0.07872,2.7685299999999997,14.0
+63,2016,Botswana,Female,12.32162,,
+64,2016,Botswana,Male,11.19871,,
+65,2016,Botswana,Total,11.766689999999999,264.7807,8.0
+66,2016,Brazil,Female,1.1192,,
+67,2016,Brazil,Male,0.9723299999999999,,
+68,2016,Brazil,Total,1.047,2174.623,13.0
+69,2016,Brunei Darussalam,Female,0.04411,,
+70,2016,Brunei Darussalam,Male,0.04623,,
+71,2016,Brunei Darussalam,Total,0.0452,0.19128,14.0
+72,2016,Bulgaria,Female,0.13516,,
+73,2016,Bulgaria,Male,0.12215999999999999,,
+74,2016,Bulgaria,Total,0.12884,9.18815,14.0
+75,2016,Burkina Faso,Female,53.73591,,
+76,2016,Burkina Faso,Male,45.51959,,
+77,2016,Burkina Faso,Total,49.64125,9256.325,5.0
+78,2016,Burundi,Female,66.77003,,
+79,2016,Burundi,Male,63.98737,,
+80,2016,Burundi,Total,65.40117,6882.901,3.0
+81,2016,Cabo Verde,Female,3.95605,,
+82,2016,Cabo Verde,Male,4.31882,,
+83,2016,Cabo Verde,Total,4.13675,22.32021,11.0
+84,2016,Cambodia,Female,6.32701,,
+85,2016,Cambodia,Male,6.6208,,
+86,2016,Cambodia,Total,6.470330000000001,1019.877,10.0
+87,2016,Cameroon,Female,44.13828,,
+88,2016,Cameroon,Male,46.16591,,
+89,2016,Cameroon,Total,45.15287,10583.47,5.0
+90,2016,Canada,Female,0.44628999999999996,,
+91,2016,Canada,Male,0.28836,,
+92,2016,Canada,Total,0.36794,133.5263,14.0
+93,2016,Central African Republic,Female,74.73948,,
+94,2016,Central African Republic,Male,89.68932,,
+95,2016,Central African Republic,Total,82.11312,3772.784,1.0
+96,2016,Chad,Female,95.0259,,
+97,2016,Chad,Male,107.04802,,
+98,2016,Chad,Total,101.04312,14603.3,0.0
+99,2016,Chile,Female,0.23087,,
+100,2016,Chile,Male,0.17412,,
+101,2016,Chile,Total,0.20277,36.31498,14.0
+102,2016,China,Female,0.65809,,
+103,2016,China,Male,0.49931000000000003,,
+104,2016,China,Total,0.5763199999999999,8134.223000000001,14.0
+105,2016,Colombia,Female,0.77409,,
+106,2016,Colombia,Male,0.73144,,
+107,2016,Colombia,Total,0.7531,366.4109,14.0
+108,2016,Comoros,Female,50.33907,,
+109,2016,Comoros,Male,51.12782,,
+110,2016,Comoros,Total,50.73689,403.6642,4.0
+111,2016,Congo,Female,33.89152,,
+112,2016,Congo,Male,43.5214,,
+113,2016,Congo,Total,38.70865,1984.138,6.0
+114,2016,Costa Rica,Female,1.02597,,
+115,2016,Costa Rica,Male,0.70192,,
+116,2016,Costa Rica,Total,0.86387,41.96055,14.0
+117,2016,Croatia,Female,0.14178,,
+118,2016,Croatia,Male,0.08007,,
+119,2016,Croatia,Total,0.11204000000000001,4.72051,14.0
+120,2016,Cuba,Female,1.04843,,
+121,2016,Cuba,Male,1.00429,,
+122,2016,Cuba,Total,1.02635,117.7832,13.0
+123,2016,Cyprus,Female,0.26899999999999996,,
+124,2016,Cyprus,Male,0.28913,,
+125,2016,Cyprus,Total,0.27908,3.2656400000000003,14.0
+126,2016,Czechia,Female,0.21095999999999998,,
+127,2016,Czechia,Male,0.14554,,
+128,2016,Czechia,Total,0.17881,18.97327,14.0
+129,2016,Côte d'Ivoire,Female,44.738409999999995,,
+130,2016,Côte d'Ivoire,Male,49.50985,,
+131,2016,Côte d'Ivoire,Total,47.157759999999996,11174.47,5.0
+132,2016,Democratic People's Republic of Korea,Female,1.1235,,
+133,2016,Democratic People's Republic of Korea,Male,1.60006,,
+134,2016,Democratic People's Republic of Korea,Total,1.35658,344.1445,13.0
+135,2016,Democratic Republic of the Congo,Female,49.79718,,
+136,2016,Democratic Republic of the Congo,Male,69.76294,,
+137,2016,Democratic Republic of the Congo,Total,59.755919999999996,47049.52,4.0
+138,2016,Denmark,Female,0.41631999999999997,,
+139,2016,Denmark,Male,0.19372999999999999,,
+140,2016,Denmark,Total,0.30561,17.45619,14.0
+141,2016,Djibouti,Female,33.22502,,
+142,2016,Djibouti,Male,29.362759999999998,,
+143,2016,Djibouti,Total,31.28645,294.82599999999996,6.0
+144,2016,Dominican Republic,Female,2.1909,,
+145,2016,Dominican Republic,Male,2.22008,,
+146,2016,Dominican Republic,Total,2.2054400000000003,234.8522,12.0
+147,2016,Ecuador,Female,0.65657,,
+148,2016,Ecuador,Male,0.62773,,
+149,2016,Ecuador,Total,0.64215,105.2175,14.0
+150,2016,Egypt,Female,2.18807,,
+151,2016,Egypt,Male,1.82045,,
+152,2016,Egypt,Total,2.2022,1915.882,12.0
+153,2016,El Salvador,Female,1.63727,,
+154,2016,El Salvador,Male,2.41991,,
+155,2016,El Salvador,Total,2.0051400000000004,127.2203,12.0
+156,2016,Equatorial Guinea,Female,23.93949,,
+157,2016,Equatorial Guinea,Male,20.95419,,
+158,2016,Equatorial Guinea,Total,22.289460000000002,272.2647,7.0
+159,2016,Eritrea,Female,43.51273,,
+160,2016,Eritrea,Male,47.60817,,
+161,2016,Eritrea,Total,45.56445,2257.556,5.0
+162,2016,Estonia,Female,0.00396,,
+163,2016,Estonia,Male,0.00889,,
+164,2016,Estonia,Total,0.00627,0.08229,14.0
+165,2016,Eswatini,Female,29.75814,,
+166,2016,Eswatini,Male,25.90795,,
+167,2016,Eswatini,Total,27.89303,374.6307,7.0
+168,2016,Ethiopia,Female,40.80663,,
+169,2016,Ethiopia,Male,46.52964,,
+170,2016,Ethiopia,Total,43.663990000000005,44713.33,5.0
+171,2016,Fiji,Female,2.23365,,
+172,2016,Fiji,Male,3.5210199999999996,,
+173,2016,Fiji,Total,2.88769,25.953529999999997,12.0
+174,2016,Finland,Female,0.03837,,
+175,2016,Finland,Male,0.033889999999999997,,
+176,2016,Finland,Total,0.036160000000000005,1.9901400000000002,14.0
+177,2016,France,Female,0.32449,,
+178,2016,France,Male,0.2043,,
+179,2016,France,Total,0.26542,171.7787,14.0
+180,2016,Gabon,Female,18.59349,,
+181,2016,Gabon,Male,22.458270000000002,,
+182,2016,Gabon,Total,20.57946,407.4295,7.0
+183,2016,Gambia,Female,28.44265,,
+184,2016,Gambia,Male,30.9008,,
+185,2016,Gambia,Total,29.659440000000004,604.6097,7.0
+186,2016,Georgia,Female,0.17063,,
+187,2016,Georgia,Male,0.18980999999999998,,
+188,2016,Georgia,Total,0.17978,7.05726,14.0
+189,2016,Germany,Female,0.71559,,
+190,2016,Germany,Male,0.4533,,
+191,2016,Germany,Total,0.5865100000000001,480.4347,14.0
+192,2016,Ghana,Female,19.43354,,
+193,2016,Ghana,Male,18.23325,,
+194,2016,Ghana,Total,18.835820000000002,5312.967,8.0
+195,2016,Greece,Female,0.05317,,
+196,2016,Greece,Male,0.02053,,
+197,2016,Greece,Total,0.0371,4.14944,14.0
+198,2016,Grenada,Female,0.01541,,
+199,2016,Grenada,Male,0.66771,,
+200,2016,Grenada,Total,0.34283,0.36791999999999997,14.0
+201,2016,Guatemala,Female,5.98505,,
+202,2016,Guatemala,Male,6.615310000000001,,
+203,2016,Guatemala,Total,6.29517,1043.895,10.0
+204,2016,Guinea,Female,40.969609999999996,,
+205,2016,Guinea,Male,48.27968,,
+206,2016,Guinea,Total,44.63392,5532.784000000001,5.0
+207,2016,Guinea-Bissau,Female,32.95495,,
+208,2016,Guinea-Bissau,Male,37.66702,,
+209,2016,Guinea-Bissau,Total,35.27235,640.4408,6.0
+210,2016,Guyana,Female,3.1791,,
+211,2016,Guyana,Male,4.11048,,
+212,2016,Guyana,Total,3.64877,28.21598,11.0
+213,2016,Haiti,Female,20.133,,
+214,2016,Haiti,Male,27.53149,,
+215,2016,Haiti,Total,23.79188,2580.786,7.0
+216,2016,Honduras,Female,3.82395,,
+217,2016,Honduras,Male,3.41266,,
+218,2016,Honduras,Total,3.6189,329.7852,11.0
+219,2016,Hungary,Female,0.29791,,
+220,2016,Hungary,Male,0.17577,,
+221,2016,Hungary,Total,0.23983000000000002,23.39143,14.0
+222,2016,Iceland,Female,0.1158,,
+223,2016,Iceland,Male,0.09137,,
+224,2016,Iceland,Total,0.10354000000000001,0.34426,14.0
+225,2016,India,Female,21.48475,,
+226,2016,India,Male,15.88761,,
+227,2016,India,Total,18.58389,246087.9,8.0
+228,2016,Indonesia,Female,7.8416,,
+229,2016,Indonesia,Male,6.28416,,
+230,2016,Indonesia,Total,7.05721,18426.38,10.0
+231,2016,Iran (Islamic Republic of),Female,0.97077,,
+232,2016,Iran (Islamic Republic of),Male,0.99813,,
+233,2016,Iran (Islamic Republic of),Total,0.9845299999999999,790.3585,14.0
+234,2016,Iraq,Female,2.29659,,
+235,2016,Iraq,Male,3.75501,,
+236,2016,Iraq,Total,3.03475,1129.005,11.0
+237,2016,Ireland,Female,0.09862,,
+238,2016,Ireland,Male,0.04929,,
+239,2016,Ireland,Total,0.07416,3.50464,14.0
+240,2016,Israel,Female,0.28375,,
+241,2016,Israel,Male,0.20934,,
+242,2016,Israel,Total,0.24681999999999998,20.21871,14.0
+243,2016,Italy,Female,0.16933,,
+244,2016,Italy,Male,0.10332000000000001,,
+245,2016,Italy,Total,0.13718,81.52759,14.0
+246,2016,Jamaica,Female,0.5745899999999999,,
+247,2016,Jamaica,Male,0.65308,,
+248,2016,Jamaica,Total,0.61365,17.6814,14.0
+249,2016,Japan,Female,0.19224000000000002,,
+250,2016,Japan,Male,0.13996,,
+251,2016,Japan,Total,0.1667,212.9628,14.0
+252,2016,Jordan,Female,0.78855,,
+253,2016,Jordan,Male,0.46835,,
+254,2016,Jordan,Total,0.62637,59.228719999999996,14.0
+255,2016,Kazakhstan,Female,0.3899,,
+256,2016,Kazakhstan,Male,0.37589,,
+257,2016,Kazakhstan,Total,0.38311999999999996,68.91383,14.0
+258,2016,Kenya,Female,49.686809999999994,,
+259,2016,Kenya,Male,52.6401,,
+260,2016,Kenya,Total,51.1546,24790.32,4.0
+261,2016,Kiribati,Female,19.701929999999997,,
+262,2016,Kiribati,Male,13.528410000000001,,
+263,2016,Kiribati,Total,16.6583,19.05509,8.0
+264,2016,Kuwait,Female,0.00893,,
+265,2016,Kuwait,Male,0.015009999999999999,,
+266,2016,Kuwait,Total,0.01242,0.5032399999999999,14.0
+267,2016,Kyrgyzstan,Female,0.73301,,
+268,2016,Kyrgyzstan,Male,0.81958,,
+269,2016,Kyrgyzstan,Total,0.77594,46.212740000000004,14.0
+270,2016,Lao People's Democratic Republic,Female,11.439060000000001,,
+271,2016,Lao People's Democratic Republic,Male,11.1857,,
+272,2016,Lao People's Democratic Republic,Total,11.31273,764.5544,8.0
+273,2016,Latvia,Female,0.02485,,
+274,2016,Latvia,Male,0.015590000000000001,,
+275,2016,Latvia,Total,0.0206,0.40592,14.0
+276,2016,Lebanon,Female,0.86771,,
+277,2016,Lebanon,Male,0.70636,,
+278,2016,Lebanon,Total,0.78675,47.25737,14.0
+279,2016,Lesotho,Female,49.8259,,
+280,2016,Lesotho,Male,38.55466,,
+281,2016,Lesotho,Total,44.35666,977.5431,5.0
+282,2016,Liberia,Female,39.523790000000005,,
+283,2016,Liberia,Male,43.52787,,
+284,2016,Liberia,Total,41.54313,1916.729,5.0
+285,2016,Libya,Female,0.6662100000000001,,
+286,2016,Libya,Male,0.50064,,
+287,2016,Libya,Total,0.5827,36.67053,14.0
+288,2016,Lithuania,Female,0.07507,,
+289,2016,Lithuania,Male,0.08747,,
+290,2016,Lithuania,Total,0.08077999999999999,2.34934,14.0
+291,2016,Luxembourg,Female,0.0621,,
+292,2016,Luxembourg,Male,0.035019999999999996,,
+293,2016,Luxembourg,Total,0.0485,0.27921,14.0
+294,2016,Madagascar,Female,29.67203,,
+295,2016,Madagascar,Male,30.79443,,
+296,2016,Madagascar,Total,30.231679999999997,7526.039000000001,6.0
+297,2016,Malawi,Female,27.493370000000002,,
+298,2016,Malawi,Male,29.102390000000003,,
+299,2016,Malawi,Total,28.290309999999998,5118.163,7.0
+300,2016,Malaysia,Female,0.45002,,
+301,2016,Malaysia,Male,0.39189,,
+302,2016,Malaysia,Total,0.41999,130.9834,14.0
+303,2016,Maldives,Female,0.2256,,
+304,2016,Maldives,Male,0.36704000000000003,,
+305,2016,Maldives,Total,0.30585,1.3083,14.0
+306,2016,Mali,Female,71.08458,,
+307,2016,Mali,Male,70.35859,,
+308,2016,Mali,Total,70.7214,12726.2,2.0
+309,2016,Malta,Female,0.05487,,
+310,2016,Malta,Male,0.01205,,
+311,2016,Malta,Total,0.03337,0.14329,14.0
+312,2016,Mauritania,Female,36.45339,,
+313,2016,Mauritania,Male,40.65357,,
+314,2016,Mauritania,Total,38.56949,1658.882,6.0
+315,2016,Mauritius,Female,0.43667,,
+316,2016,Mauritius,Male,0.7433,,
+317,2016,Mauritius,Total,0.58845,7.42695,14.0
+318,2016,Mexico,Female,1.1098700000000001,,
+319,2016,Mexico,Male,1.00074,,
+320,2016,Mexico,Total,1.05554,1346.237,13.0
+321,2016,Micronesia (Federated States of),Female,3.73049,,
+322,2016,Micronesia (Federated States of),Male,3.4171199999999997,,
+323,2016,Micronesia (Federated States of),Total,3.5699300000000003,3.74615,11.0
+324,2016,Mongolia,Female,0.78891,,
+325,2016,Mongolia,Male,1.7987900000000001,,
+326,2016,Mongolia,Total,1.28871,39.01429,13.0
+327,2016,Montenegro,Female,0.022269999999999998,,
+328,2016,Montenegro,Male,0.02872,,
+329,2016,Montenegro,Total,0.02545,0.15999000000000002,14.0
+330,2016,Morocco,Female,1.97875,,
+331,2016,Morocco,Male,1.8262,,
+332,2016,Morocco,Total,1.90323,671.3973,13.0
+333,2016,Mozambique,Female,27.054759999999998,,
+334,2016,Mozambique,Male,28.23147,,
+335,2016,Mozambique,Total,27.62905,7965.31,7.0
+336,2016,Myanmar,Female,12.19727,,
+337,2016,Myanmar,Male,13.061589999999999,,
+338,2016,Myanmar,Total,12.61942,6673.805,8.0
+339,2016,Namibia,Female,18.26923,,
+340,2016,Namibia,Male,18.3678,,
+341,2016,Namibia,Total,18.31716,454.2127,8.0
+342,2016,Nepal,Female,24.43096,,
+343,2016,Nepal,Male,14.94798,,
+344,2016,Nepal,Total,19.829539999999998,5747.149,8.0
+345,2016,Netherlands,Female,0.28839000000000004,,
+346,2016,Netherlands,Male,0.19296,,
+347,2016,Netherlands,Total,0.24093,40.92825,14.0
+348,2016,New Zealand,Female,0.18632,,
+349,2016,New Zealand,Male,0.10384000000000002,,
+350,2016,New Zealand,Total,0.14577,6.79392,14.0
+351,2016,Nicaragua,Female,2.04605,,
+352,2016,Nicaragua,Male,2.44822,,
+353,2016,Nicaragua,Total,2.24431,138.0232,12.0
+354,2016,Niger,Female,66.9474,,
+355,2016,Niger,Male,74.66391999999999,,
+356,2016,Niger,Total,70.81496,14639.56,2.0
+357,2016,Nigeria,Female,65.59476,,
+358,2016,Nigeria,Male,71.58229,,
+359,2016,Nigeria,Total,68.62818,127641.3,3.0
+360,2016,Norway,Female,0.25782,,
+361,2016,Norway,Male,0.16613,,
+362,2016,Norway,Total,0.21161,11.1195,14.0
+363,2016,Oman,Female,0.04705,,
+364,2016,Oman,Male,0.04473,,
+365,2016,Oman,Total,0.04553,2.01467,14.0
+366,2016,Pakistan,Female,23.394470000000002,,
+367,2016,Pakistan,Male,15.98665,,
+368,2016,Pakistan,Total,19.58922,37847.05,8.0
+369,2016,Panama,Female,1.72902,,
+370,2016,Panama,Male,2.06278,,
+371,2016,Panama,Total,1.89632,76.49982,13.0
+372,2016,Papua New Guinea,Female,18.054779999999997,,
+373,2016,Papua New Guinea,Male,14.62447,,
+374,2016,Papua New Guinea,Total,16.309739999999998,1318.642,8.0
+375,2016,Paraguay,Female,1.50114,,
+376,2016,Paraguay,Male,1.42899,,
+377,2016,Paraguay,Total,1.4645299999999999,98.49413,13.0
+378,2016,Peru,Female,1.23642,,
+379,2016,Peru,Male,1.31736,,
+380,2016,Peru,Total,1.27684,405.7023,13.0
+381,2016,Philippines,Female,3.5953800000000005,,
+382,2016,Philippines,Male,4.78213,,
+383,2016,Philippines,Total,4.19289,4332.105,11.0
+384,2016,Poland,Female,0.10917,,
+385,2016,Poland,Male,0.07097,,
+386,2016,Poland,Total,0.09072000000000001,34.676359999999995,14.0
+387,2016,Portugal,Female,0.19368,,
+388,2016,Portugal,Male,0.10758,,
+389,2016,Portugal,Total,0.15292,15.860479999999999,14.0
+390,2016,Qatar,Female,0.013619999999999998,,
+391,2016,Qatar,Male,0.00629,,
+392,2016,Qatar,Total,0.00811,0.20829,14.0
+393,2016,Republic of Korea,Female,2.2267,,
+394,2016,Republic of Korea,Male,1.38526,,
+395,2016,Republic of Korea,Total,1.8055900000000003,917.0953,13.0
+396,2016,Republic of Moldova,Female,0.11042,,
+397,2016,Republic of Moldova,Male,0.08026,,
+398,2016,Republic of Moldova,Total,0.09594,3.89474,14.0
+399,2016,Republic of North Macedonia,Female,0.05756,,
+400,2016,Republic of North Macedonia,Male,0.09112,,
+401,2016,Republic of North Macedonia,Total,0.07433,1.54705,14.0
+402,2016,Romania,Female,0.39551,,
+403,2016,Romania,Male,0.32709,,
+404,2016,Romania,Total,0.36236,71.66723,14.0
+405,2016,Russian Federation,Female,0.09443,,
+406,2016,Russian Federation,Male,0.11662,,
+407,2016,Russian Federation,Total,0.10474000000000001,150.7938,14.0
+408,2016,Rwanda,Female,19.5371,,
+409,2016,Rwanda,Male,19.15444,,
+410,2016,Rwanda,Total,19.34948,2305.976,8.0
+411,2016,Saint Lucia,Female,0.26695,,
+412,2016,Saint Lucia,Male,1.1956,,
+413,2016,Saint Lucia,Total,0.62866,1.11909,14.0
+414,2016,Saint Vincent and the Grenadines,Female,1.2573299999999998,,
+415,2016,Saint Vincent and the Grenadines,Male,1.40687,,
+416,2016,Saint Vincent and the Grenadines,Total,1.33276,1.46129,13.0
+417,2016,Samoa,Female,1.4991700000000001,,
+418,2016,Samoa,Male,1.479,,
+419,2016,Samoa,Total,1.48876,2.9051299999999998,13.0
+420,2016,Sao Tome and Principe,Female,11.74935,,
+421,2016,Sao Tome and Principe,Male,10.969619999999999,,
+422,2016,Sao Tome and Principe,Total,11.3611,22.71185,8.0
+423,2016,Saudi Arabia,Female,0.11489,,
+424,2016,Saudi Arabia,Male,0.0751,,
+425,2016,Saudi Arabia,Total,0.09226000000000001,29.777079999999998,14.0
+426,2016,Senegal,Female,21.9494,,
+427,2016,Senegal,Male,25.85899,,
+428,2016,Senegal,Total,23.86927,3678.639,7.0
+429,2016,Serbia,Female,0.8670100000000001,,
+430,2016,Serbia,Male,0.6005,,
+431,2016,Serbia,Total,0.73678,64.98421,14.0
+432,2016,Seychelles,Female,0.14082,,
+433,2016,Seychelles,Male,0.19874,,
+434,2016,Seychelles,Total,0.1694,0.15963,14.0
+435,2016,Sierra Leone,Female,75.8484,,
+436,2016,Sierra Leone,Male,86.84529,,
+437,2016,Sierra Leone,Total,81.29262,6012.55,1.0
+438,2016,Singapore,Female,0.08379,,
+439,2016,Singapore,Male,0.048010000000000004,,
+440,2016,Singapore,Total,0.06611,3.71719,14.0
+441,2016,Slovakia,Female,0.05314,,
+442,2016,Slovakia,Male,0.03585,,
+443,2016,Slovakia,Total,0.044739999999999995,2.43565,14.0
+444,2016,Slovenia,Female,0.02827,,
+445,2016,Slovenia,Male,0.013909999999999999,,
+446,2016,Slovenia,Total,0.02115,0.43938999999999995,14.0
+447,2016,Solomon Islands,Female,5.48765,,
+448,2016,Solomon Islands,Male,6.84095,,
+449,2016,Solomon Islands,Total,6.175619999999999,37.01826,10.0
+450,2016,Somalia,Female,89.71645,,
+451,2016,Somalia,Male,83.41056,,
+452,2016,Somalia,Total,86.57523,12395.83,1.0
+453,2016,South Africa,Female,13.443610000000001,,
+454,2016,South Africa,Male,13.902429999999999,,
+455,2016,South Africa,Total,13.66885,7656.672,8.0
+456,2016,South Sudan,Female,60.68713,,
+457,2016,South Sudan,Male,65.87675,,
+458,2016,South Sudan,Total,63.28665,7740.42,3.0
+459,2016,Spain,Female,0.18808,,
+460,2016,Spain,Male,0.11416,,
+461,2016,Spain,Total,0.15183,70.36836,14.0
+462,2016,Sri Lanka,Female,1.1993200000000002,,
+463,2016,Sri Lanka,Male,1.18001,,
+464,2016,Sri Lanka,Total,1.19003,247.5077,13.0
+465,2016,Sudan,Female,18.31656,,
+466,2016,Sudan,Male,16.32655,,
+467,2016,Sudan,Total,17.32224,6855.941,8.0
+468,2016,Suriname,Female,1.95547,,
+469,2016,Suriname,Male,2.05839,,
+470,2016,Suriname,Total,2.00714,11.20705,12.0
+471,2016,Sweden,Female,0.27089,,
+472,2016,Sweden,Male,0.15950999999999999,,
+473,2016,Sweden,Total,0.21519000000000002,21.169,14.0
+474,2016,Switzerland,Female,0.16879,,
+475,2016,Switzerland,Male,0.10629000000000001,,
+476,2016,Switzerland,Total,0.13784000000000002,11.581010000000001,14.0
+477,2016,Syrian Arab Republic,Female,4.10723,,
+478,2016,Syrian Arab Republic,Male,3.23346,,
+479,2016,Syrian Arab Republic,Total,3.6654,675.5495,11.0
+480,2016,Tajikistan,Female,2.39454,,
+481,2016,Tajikistan,Male,3.0034400000000003,,
+482,2016,Tajikistan,Total,2.7004799999999998,235.8854,12.0
+483,2016,Thailand,Female,3.3579,,
+484,2016,Thailand,Male,3.66249,,
+485,2016,Thailand,Total,3.50653,2414.717,11.0
+486,2016,Timor-Leste,Female,9.81134,,
+487,2016,Timor-Leste,Male,10.0121,,
+488,2016,Timor-Leste,Total,9.91329,125.7667,9.0
+489,2016,Togo,Female,41.12543,,
+490,2016,Togo,Male,42.1444,,
+491,2016,Togo,Total,41.63327,3166.78,5.0
+492,2016,Tonga,Female,2.02674,,
+493,2016,Tonga,Male,0.8278399999999999,,
+494,2016,Tonga,Total,1.42545,1.52692,13.0
+495,2016,Trinidad and Tobago,Female,0.12597,,
+496,2016,Trinidad and Tobago,Male,0.15827,,
+497,2016,Trinidad and Tobago,Total,0.14189000000000002,1.93681,14.0
+498,2016,Tunisia,Female,1.2146,,
+499,2016,Tunisia,Male,0.81112,,
+500,2016,Tunisia,Total,1.0152700000000001,115.7742,13.0
+501,2016,Turkey,Female,0.31835,,
+502,2016,Turkey,Male,0.27233,,
+503,2016,Turkey,Total,0.2957,235.1192,14.0
+504,2016,Turkmenistan,Female,3.47729,,
+505,2016,Turkmenistan,Male,4.493469999999999,,
+506,2016,Turkmenistan,Total,3.97765,225.2361,11.0
+507,2016,Uganda,Female,30.390109999999996,,
+508,2016,Uganda,Male,32.74029,,
+509,2016,Uganda,Total,31.55895,13093.17,6.0
+510,2016,Ukraine,Female,0.23231999999999997,,
+511,2016,Ukraine,Male,0.31085,,
+512,2016,Ukraine,Total,0.26861999999999997,119.3717,14.0
+513,2016,United Arab Emirates,Female,0.04148,,
+514,2016,United Arab Emirates,Male,0.0245,,
+515,2016,United Arab Emirates,Total,0.02912,2.6996700000000002,14.0
+516,2016,United Kingdom of Great Britain and Northern Ireland,Female,0.24809,,
+517,2016,United Kingdom of Great Britain and Northern Ireland,Male,0.1449,,
+518,2016,United Kingdom of Great Britain and Northern Ireland,Total,0.1972,129.7347,14.0
+519,2016,United Republic of Tanzania,Female,40.56995,,
+520,2016,United Republic of Tanzania,Male,36.18708,,
+521,2016,United Republic of Tanzania,Total,38.40323,21341.52,6.0
+522,2016,United States of America,Female,0.27202,,
+523,2016,United States of America,Male,0.19017,,
+524,2016,United States of America,Total,0.23153,745.9761,14.0
+525,2016,Uruguay,Female,0.42578,,
+526,2016,Uruguay,Male,0.28991,,
+527,2016,Uruguay,Total,0.36017,12.40418,14.0
+528,2016,Uzbekistan,Female,0.37074,,
+529,2016,Uzbekistan,Male,0.51274,,
+530,2016,Uzbekistan,Total,0.44151,138.8398,14.0
+531,2016,Vanuatu,Female,8.590530000000001,,
+532,2016,Vanuatu,Male,12.20005,,
+533,2016,Vanuatu,Total,10.41773,28.170070000000003,8.0
+534,2016,Venezuela (Bolivarian Republic of),Female,1.3692799999999998,,
+535,2016,Venezuela (Bolivarian Republic of),Male,1.41152,,
+536,2016,Venezuela (Bolivarian Republic of),Total,1.3903,438.8923,13.0
+537,2016,Viet Nam,Female,1.1380700000000001,,
+538,2016,Viet Nam,Male,2.1137599999999996,,
+539,2016,Viet Nam,Total,1.6208,1532.777,13.0
+540,2016,Yemen,Female,11.77016,,
+541,2016,Yemen,Male,8.66892,,
+542,2016,Yemen,Total,10.20328,2814.495,8.0
+543,2016,Zambia,Female,33.23213,,
+544,2016,Zambia,Male,36.61913,,
+545,2016,Zambia,Total,34.912729999999996,5792.504,6.0
+546,2016,Zimbabwe,Female,22.16388,,
+547,2016,Zimbabwe,Male,27.066879999999998,,
+548,2016,Zimbabwe,Total,24.55074,3965.033,7.0
