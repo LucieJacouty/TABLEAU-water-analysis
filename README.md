@@ -9,6 +9,11 @@ Projet pour le compte d'une ONG comprenant 3 domaines d'expertise.
 Demande de financement effectuée : si accordée permettra d'investir dans un des domaines d'expertise dans un pays  
 But : déterminer le pays à cibler  
 
+Contenu :
+- Data : données préparées utilisées sous Tableau
+- Notebook préparation : notebook jupyter qui a permis de préparer les données
+- Water Analysis Tableau : export Tableau Desktop regroupant toutes les visualisations
+
 ### Synthétisation des besoins clients : 
 
 Besoin de 3 dashboards : niveau mondial, régional et national 
