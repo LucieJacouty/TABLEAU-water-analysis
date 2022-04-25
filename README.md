@@ -5,9 +5,9 @@ Projet Openclassrooms - Formation Data Analyst
 
 Objectif : Réaliser plusieurs dashboards présentant une vue globale de l'accès à l'eau potable dans le monde   
 
-Projet pour le compte d'une ONG comprenant 3 domaines d'expertise.
-Demande de financement effectuée : si accordée permettra d'investir dans un des domaines d'expertise dans un pays  
-But : déterminer le pays à cibler  
+Projet pour le compte d'une ONG comprenant 3 domaines d'expertise   
+Demande de financement effectuée : si accordée permettra d'investir dans un des domaines d'expertise dans un pays     
+But : déterminer le pays à cibler     
 
 Contenu :
 - Data : données préparées utilisées sous Tableau
@@ -16,15 +16,15 @@ Contenu :
 
 ### Synthétisation des besoins clients : 
 
-Besoin de 3 dashboards : niveau mondial, régional et national 
+Besoin de 3 dashboards : niveau mondial, régional et national    
 Choix d'un principe de cascade -> du plus large au plus précis. Zoom grâce aux filtres intéractifs  
 
 ### Vérification et Préparation des données avec Python : 
  
-Vérification des valeurs nulles (notamment "accès à l'eau de qualité") 
-Vérification de la synchronisation des noms des pays 
-Pivot table population et calcul taux urbain 
-Création des indices pour l'efficacité gouvernementale (index final champs calculé sous Tableau)  
+Vérification des valeurs nulles (notamment "accès à l'eau de qualité")    
+Vérification de la synchronisation des noms des pays    
+Pivot table population et calcul taux urbain    
+Création des indices pour l'efficacité gouvernementale (index final champs calculé sous Tableau)     
 
 
 ## Vues Export Tableau  
